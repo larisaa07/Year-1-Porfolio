@@ -1,0 +1,23 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#1f3156;
+}
+nav{
+  margin-top:10px;
+  background-color:#af9f92;
+}
+.aboutme{
+  background-color:#68929c;
+  margin-top:40px;
+}
+.me{
+  width:200px;
+  border-radius:100px;
+  
+}
+card{
+  text-align:center;
+}
